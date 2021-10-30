@@ -9,5 +9,9 @@ public class drill1
     List <String> lister = new ArrayList<String>();
 
     lister.add("Whats poppin");
+    lister.add("hello");
+    lister.add("how r u");
+    lister.add("doin good");
+    lister.add("i am aswell");
   }
 }
