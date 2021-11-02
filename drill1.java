@@ -13,5 +13,9 @@ public class drill1
     lister.add("how r u");
     lister.add("doin good");
     lister.add("i am aswell");
+
+    lister.remove(0);
+    lister.remove(1);
+    lister.remove(2);
   }
 }
